@@ -1,2 +1,2 @@
 # A1-Final-120
-I have attached the login page along with its HTML and CSS codes
+I have attached the HTML and CSS codes for the login page proof of concept
